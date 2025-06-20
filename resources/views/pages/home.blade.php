@@ -1,7 +1,7 @@
 <x-layout title="Home">
   <div class="prose">
     <h2>Home Page</h2>
-    <p>This is a basic page with FlyonUI components:</p>
+    <p>This is a basic page with FlyonUI components: Getting started</p>
 
     <div class="card shadow p-4">
       <h3 class="card-title">Card Component</h3>
